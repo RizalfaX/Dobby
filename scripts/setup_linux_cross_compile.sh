@@ -33,7 +33,7 @@ wget https://github.com/llvm/llvm-project/releases/download/llvmorg-$LLVM_VERSIO
 LLVM_HOME=~/opt/llvm-$LLVM_VERSION
 
 cd ~/opt
-NDK_VERSION=r25b
+NDK_VERSION=r27c
 NDK_DOWNLOAD_PACKAGE=android-ndk-$NDK_VERSION-linux
 NDK_DOWNLOAD_UNZIP_PACKAGE=android-ndk-$NDK_VERSION
 wget https://dl.google.com/android/repository/$NDK_DOWNLOAD_PACKAGE.zip &&

@@ -9,7 +9,7 @@ on:
 env:
   CMAKE_VERSION: 3.20.2
   LLVM_VERSION: 14.0.0
-  NDK_VERSION: r25b
+  NDK_VERSION: r27c
 
 jobs:
   linux_and_android:
